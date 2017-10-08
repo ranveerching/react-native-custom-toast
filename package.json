@@ -1,0 +1,22 @@
+{
+  "name": "react-native-custom-toast",
+  "version": "1.0.3",
+  "description": "React native custom animated toast for both Android and iOS platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "custom toast",
+    "animated toast"
+  ],
+  "author": "Ranveer Ching <pankajhoney1991@gmail.com> (https://github.com/ranveerching)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranveerching/react-native-custom-toast/issues"
+  },
+  "homepage": "https://github.com/ranveerching/react-native-custom-toast",
+  "dependencies": {}
+}
