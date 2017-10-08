@@ -35,7 +35,7 @@ npm install react-native-custom-toast --save
 import React, { Component } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 
-import Toast from './Toast/toast.js';
+import Toast from 'react-native-custom-toast';
 
 class App extends Component
 {
