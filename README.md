@@ -29,7 +29,7 @@ cd CustomToast
 npm install react-native-custom-toast --save
 ```
 
-2. paste the following code into your app.js file:
+2. Paste the following code into your ```app.js``` file:
 
 ```
 import React, { Component } from 'react';
