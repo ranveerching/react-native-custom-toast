@@ -13,6 +13,7 @@ npm install react-native-custom-toast --save
 backgroundColor: '#666666' // Background Color of Toast default is '#666666'
 position: 'bottom' // Specifies the position of Toast. Only 'top', 'bottom' are allowed.
 textColor: 'white' // Color of message inside Toast.
+orientation: 'xAxis' // Specifies the orientation in which toast would be animated. Possible values 'xAxis' or 'yAxis'. Default is 'xAxis'.
 ```
 
 ## ScreenShots
